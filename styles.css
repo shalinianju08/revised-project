@@ -1,0 +1,23 @@
+/* add your CSS here */
+.fontpixel{
+       width: 450px;
+}
+.italic{
+       font-style: italic;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.thick{
+      font-weight: bold;
+}
+.solid{
+       border: 1px solid black;
+}
+.ex1{
+     padding: 1cm;
+}
+
+
